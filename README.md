@@ -17,7 +17,7 @@ By the end of this Learning Path, you'll have the skills and confidence to desig
 * Use graphics rendering to implement animations in your GUI
 
 ## Instructions and Navigations
-* All of the code is organized into folders. Chapter5, Chapter6, Chapter7, Chapter8, Chapter10, Chapter12, Chapter13, Chapter15, Chapter17, Chapter18 does not contain code files.
+* All of the code is organized into folders. Chapter17, Chapter19, Chapter20, Chapter21, Chapter22 does not contain code files.
 
 ### Hardware Requirements
 For an optimal student experience, we recommend the following hardware configuration:
