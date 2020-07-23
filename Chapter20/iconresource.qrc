@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Graphics">
+    <file>circleIcon.ico</file>
+    <file>rectangleIcon.ico</file>
+    <file>lineIcon.ico</file>
+  </qresource>
+</RCC>
