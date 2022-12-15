@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838988470)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Python GUI Programming A Complete Reference Guide
 A responsive graphical user interface (GUI) helps you interact with your application, improves user experience, and enhances the efficiency of your applications. With Python, you’ll have access to elaborate GUI frameworks that you can use to build interactive GUIs that stand apart from the rest.
 
